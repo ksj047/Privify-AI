@@ -53,7 +53,7 @@ How can we ensure AI respects privacy? Share your thoughts below! Let’s work t
 
 👩‍💻👨‍💻 Developed by:  
 - Michael V Thomas: 🔗LinkedIn: www.linkedin.com/in/michael-thomasv
-- Samuel Joshua K: 🔗Portfolio: www.ksj047.github.io
+- Samuel Joshua K: 🔗Portfolio: https://ksj047.github.io
 - Syed Abdul Rehman: 🔗LinkedIn: www.linkedin.com/in/syed-abdul-rehman
 - Yadunandan B C: 🔗LinkedIn: www.linkedin.com/in/yadunandan-b-c
   
