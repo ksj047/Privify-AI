@@ -45,11 +45,18 @@ In a world increasingly wary of surveillance, PrivifyAI proves that innovation a
 🌟 **Join the Conversation** 🌟  
 How can we ensure AI respects privacy? Share your thoughts below! Let’s work together to shape a future where ethical AI is the norm.  
 
-🔗 Explore the code on GitHub and dive into the technical whitepaper [here].  
+🔗 Explore the code on GitHub and dive into the technical whitepaper:
+
+**📜Report: https://github.com/ksj047/Privify-AI/blob/c5fd16ff08cca6d2dbeda06fdf7b894cf9356274/Sam_final_report.pdf**.  
 
 📚 **Keywords**: AI Ethics, Privacy-Preserving AI, Federated Learning, Homomorphic Encryption, Face Recognition, Django, Neo4j, OpenCV  
 
 👩‍💻👨‍💻 Developed by:  
-Michael V Thomas, Samuel Joshua K, Syed Abdul Rehman, and Yadunandan B C at **Impact College of Engineering and Applied Sciences, Bangalore**.  
+- Michael V Thomas: 🔗LinkedIn: www.linkedin.com/in/michael-thomasv
+- Samuel Joshua K: 🔗Portfolio: www.ksj047.github.io
+- Syed Abdul Rehman: 🔗LinkedIn: www.linkedin.com/in/syed-abdul-rehman
+- Yadunandan B C: 🔗LinkedIn: www.linkedin.com/in/yadunandan-b-c
+  
+**Impact College of Engineering and Applied Sciences, Bangalore [www.iceas.ac.in]**.  
 
 #AIEthics #PrivacyFirst #FederatedLearning #HomomorphicEncryption #FaceRecognition #Django #Neo4j #OpenCV #EthicalAI #FutureOfTech
